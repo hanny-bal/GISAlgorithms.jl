@@ -1,2 +1,2 @@
 # GISAlgorithms.jl
-Julia implementation of  the GIS Algorithms code from the book by Ningchuan Xiao
+A simple implementation of GIS algorithms using Julia. The code is a byproduct of me working through the book [**GIS Algorithms**](https://uk.sagepub.com/en-gb/eur/gis-algorithms/book241284) by Ningchuan Xiao.
